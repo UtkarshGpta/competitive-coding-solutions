@@ -1,0 +1,3 @@
+Append integer to string using string streams : NSTEPS
+Last digit of exponent to base : LASTDIG
+Sorting Array using Algorithm Library : FASHION,STAMPS
