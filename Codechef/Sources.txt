@@ -1,0 +1,2 @@
+Segment Tree = FLIPCOIN
+Web = https://www.hackerearth.com/notes/segment-tree-and-lazy-propagation/
